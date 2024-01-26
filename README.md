@@ -85,15 +85,16 @@ Note: Employ Tanstack Query for effective data handling and state management in 
     - Implement the UI as per the provided Figma design. Aim for a "pixel-perfect" design, ensuring that every element aligns precisely with the original design, leaving no room for discrepancies in size or placement.
 
 
+## **Submission Guidelines:**
+
+- Submit a well-documented codebase with clear comments.
+- Make sure to add a README file that explains how to set up and use the application. In the README, include details like the project name, live URL, features, technology used, and other important information. Try to make it look professional by doing some research and making it appealing.
+
 ## Submission:
 
-1. **GitHub Repository:**
-    - Create a private GitHub repository for your project.
-    - Include a README file explaining the project, dependencies, and how to run it and also add screenshot of your project.
-2. **Live Link:**
-    - Provide a link to a live demo of your project.
-3. **Project Overview video:**
-    - Create a video presentation providing an overview of your project. Explain its key features, functionality, and design elements. Share insights into the decision-making process and any creative aspects you've incorporated. Once complete, share the video link for assessment.
+- Provide the GitHub repository links of the front-end and back-end and ensure there is a README file with explicit instructions for running the application locally.
+- Live deployment link
+- Submit a demo video showcasing the functionality of the Inventory Management Dashboard.
 
 ## Assignment Number based on the Last Digit of PH Student ID:
 
