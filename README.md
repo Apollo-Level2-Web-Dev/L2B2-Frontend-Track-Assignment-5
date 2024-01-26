@@ -107,13 +107,13 @@ Note: Employ Tanstack Query for effective data handling and state management in 
 | 8, 9                        | 5                             |
 
 ## Figma Files: 
-- Design-1: https://www.figma.com/file/GMUOzykWt77VfIpZZMqkMg/1?type=design&node-id=0%3A1&mode=design&t=eXvtob7PFORl24iM-1
-- Design-2: https://www.figma.com/file/tZ4dHK1dwRVnbnRSqNbg9y/2?type=design&node-id=1%3A728&mode=design&t=LxyRuQJlszXuAQQR-1
-- Design-3: https://www.figma.com/file/QyJKwhBTnTthis0bLtxRJ8/3?type=design&node-id=1%3A1644&mode=design&t=Wajgg3WnswycoGWt-1
-- Design-4: https://www.figma.com/file/Bm5B6qt6Y8CXTJGvLzzNiv/4?type=design&node-id=1%3A978&mode=design&t=nC9ufhQfCA4PrIxT-1
-- Design-5: https://www.figma.com/file/IW4rXcRvTOGURrjhQ1VpdT/5?type=design&node-id=0%3A1&mode=design&t=uNy625y6grsuAkdH-1
+- Design-1: https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-5-Frontend/blob/main/Designs/Design-1.fig
+- Design-2: https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-5-Frontend/blob/main/Designs/Design-2.fig
+- Design-3: https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-5-Frontend/blob/main/Designs/Design-3.fig
+- Design-4: https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-5-Frontend/blob/main/Designs/Design-4.fig
+- Design-5: https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-5-Frontend/blob/main/Designs/Design-5.fig
 
-- Responsive Design: https://www.figma.com/file/8Q71dZNIWwBRxXmaa3IQPU/6?type=design&node-id=0%3A1&mode=design&t=zGPI5VSv0MpGGiXX-1 
+- Responsive Design: https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-5-Frontend/blob/main/Designs/Responsive%20Design%20Demo.fig
 
 
 **Feel free to draw inspiration from the "Responsive Design" Figma file for your responsive design concept. However, it's crucial to implement your own design, personalized based on your student ID.**
