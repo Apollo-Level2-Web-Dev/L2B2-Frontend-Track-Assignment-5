@@ -88,11 +88,11 @@ Note: Employ Tanstack Query for effective data handling and state management in 
 ## Submission:
 
 1. **GitHub Repository:**
-    - Create a public GitHub repository for your project.
+    - Create a private GitHub repository for your project.
     - Include a README file explaining the project, dependencies, and how to run it and also add screenshot of your project.
-2. **Live Demo:**
+2. **Live Link:**
     - Provide a link to a live demo of your project.
-3. Project Overview video:
+3. **Project Overview video:**
     - Create a video presentation providing an overview of your project. Explain its key features, functionality, and design elements. Share insights into the decision-making process and any creative aspects you've incorporated. Once complete, share the video link for assessment.
 
 ## Assignment Number based on the Last Digit of PH Student ID:
