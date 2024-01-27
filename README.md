@@ -29,16 +29,25 @@ You are tasked with implementing a responsive website based on the provided Figm
 - Create an intuitive and visually appealing dashboard.
 - Prioritize a user-friendly layout and color scheme.
 - This will be a public or open route for this assignment.
-- There will be at least two page under the dashboard.
+- There will be at least two page under the dashboard. 
+- You are required to implement at least two options (from below 3 options), but you have the flexibility to incorporate all of them if needed.
     1. **Event Items Management:**
         
         Display upcoming events with CRUD operations:
         
-        - **Create:** Add new events. Item
+        - **Create:** Add new events Item.
         - **Read:** List upcoming events Item.
         - **Update:** Edit event  item details.
         - **Delete:** Remove event Item.
-    2.  **Service Management:**
+    2. **Recent Event Management:**
+        
+        Display upcoming events with CRUD operations:
+        
+        - **Create:** Add recent events.
+        - **Read:** List recent events.
+        - **Update:** Edit event details.
+        - **Delete:** Remove event.
+    3.  **Service Management:**
         
         Provide an overview of services with CRUD operations:
         
