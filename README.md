@@ -96,6 +96,10 @@ Note: Employ Tanstack Query for effective data handling and state management in 
 - Live deployment link
 - Submit a demo video showcasing the functionality of the Inventory Management Dashboard.
 
+## Github Private Repo:
+- For Client(Frontend): https://classroom.github.com/a/U6HuF_ny
+- For Server(Backed): https://classroom.github.com/a/fTgQZixr
+
 ## Assignment Number based on the Last Digit of PH Student ID:
 
 | Last Digit of PH Student ID | Assignment Number (Design No) |
