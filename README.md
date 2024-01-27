@@ -33,7 +33,7 @@ You are tasked with implementing a responsive website based on the provided Figm
 - You are required to implement at least two options (from below 3 options), but you have the flexibility to incorporate all of them if needed.
     1. **Event Items Management:**
         
-        Display upcoming events with CRUD operations:
+        Display event items with CRUD operations:
         
         - **Create:** Add new events Item.
         - **Read:** List upcoming events Item.
