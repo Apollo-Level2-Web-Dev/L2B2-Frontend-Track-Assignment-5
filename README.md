@@ -92,11 +92,11 @@ Note: Employ Tanstack Query for effective data handling and state management in 
 
 ## Submission:
 
-- Provide the GitHub repository links of the front-end and back-end and ensure there is a README file with explicit instructions for running the application locally.
+- Provide the Private GitHub repository (in Github Classroom) links of the front-end and back-end and ensure there is a README file with explicit instructions for running the application locally.
 - Live deployment link
 - Submit a demo video showcasing the functionality of the Inventory Management Dashboard.
 
-## Github Private Repo:
+## Github Private Repo (Github ClassRoom):
 - For Client(Frontend): https://classroom.github.com/a/U6HuF_ny
 - For Server(Backed): https://classroom.github.com/a/fTgQZixr
 
